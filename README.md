@@ -1,3 +1,7 @@
+Java Converter Tool
+Created a simple desktop converter app (e.g., units, currency) with a graphical interface.
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
